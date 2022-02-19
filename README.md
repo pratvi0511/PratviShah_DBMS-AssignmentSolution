@@ -4,10 +4,12 @@
 A travel company TravelOnTheGo maintains the record of passengers and price to travel between two cities, for bus types (Sitting and Sleeper).
 1) You are required to create two tables PASSENGER and PRICE with the following attributes and properties.
 
-![Table](./image/table.jpg)
+![Table](./image/table.jpg)\
+
 2) Insert the following data in the tables.
 
 ![Value1](./image/value1.jpg)
+
 ![Value2](./image/value2.jpg)
 > Write queries for the following:
 
@@ -22,5 +24,5 @@ A travel company TravelOnTheGo maintains the record of passengers and price to t
 11) Display the distance, price in three categories in table Price\
 a) Expensive if the cost is more than 1000\
 b) Average Cost if the cost is less than 1000 and greater than 500\
-c) Cheap otherwise
+c) Cheap otherwise\
 ![Output](./image/output.jpg)
